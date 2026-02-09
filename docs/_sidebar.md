@@ -1,3 +1,4 @@
+* [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器](/131-ublock-origin-lite.md)
 * [130《Get cookies.txt LOCALLY》 获取油管cookies，自动化下载油管视频](/130-get-cookiestxt-locally.md)
 * [129《YouTube Subtitle Downloader》下载Youtube视频的字幕，支持中英对照](/129-youtube-subtitle-downloader.md)
 * [128《Wayback Machine》优雅查看任意网页的历史记录](/128-wayback-machine.md)

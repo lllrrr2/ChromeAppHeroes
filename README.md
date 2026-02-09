@@ -17,6 +17,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+- [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器](https://zhaoolee.com/ChromeAppHeroes/#/131-ublock-origin-lite.md)
+
 - [130《Get cookies.txt LOCALLY》 获取油管cookies，自动化下载油管视频](https://zhaoolee.com/ChromeAppHeroes/#/130-get-cookiestxt-locally.md)
 
 - [129《YouTube Subtitle Downloader》下载Youtube视频的字幕，支持中英对照](https://zhaoolee.com/ChromeAppHeroes/#/129-youtube-subtitle-downloader.md)
@@ -276,6 +279,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
 
+### [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器]
+
+![](./docs/131-ublock-origin-lite.assets/53936fe4048ddb677da70826d18618ec11d4a21b8dcce8b4a6a63c92940eaa42.gif)
+
+MV3 (新模式)： 谷歌为了“性能”和“隐私”理由（官方说法），引入了 declarativeNetRequest API。现在扩展程序不能实时拦截请求，必须预先向浏览器提交一份“静态过滤规则表”，由浏览器代为执行。这种改变剥夺了扩展程序的决策权，使得 uBO 标志性的“高级动态过滤”和实时脚本注入功能受到极大限制。如果你需要继续获得强大的广告拦截体验，安装 uBlock Origin Lite (uBOL)，这是原作者 Raymond Hill (gorhill) 专门为 MV3 架构开发的精简版。 符合 Chrome 新标准，无需特殊配置。
 
 #### [130《Get cookies.txt LOCALLY》 获取油管cookies，自动化下载油管视频](https://zhaoolee.com/ChromeAppHeroes/#/130-get-cookiestxt-locally.md)
 
